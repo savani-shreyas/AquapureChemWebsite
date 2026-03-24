@@ -6,9 +6,6 @@
             "image": "./assest/images/ACID Product/ACETIC.png",
             "PRDImage1": "./assest/images/ACID Product/acetic/aceticImage1.png",
             "PRDImage2": "./assest/images/ACID Product/acetic/aceticImage2.png",
-            "PRDImage3": "./assest/images/ACID Product/acetic/aceticImage3.png",
-            "PRDImage4": "./assest/images/ACID Product/acetic/aceticImage4.png",
-            "PRDImage5": "./assest/images/ACID Product/acetic/aceticImage5.png",
             "description": "Acetic Acid is a widely used organic chemical compound known for its strong acidic properties and versatility in industrial applications. It plays a crucial role in the manufacturing of various chemical products and is commonly used as an intermediate in the production of plastics, pharmaceuticals, and rubber. Due to its excellent solvent properties, acetic acid is also used in the preparation of chemical formulations and synthetic materials.",
             "description1": "In the chemical industry, acetic acid is an essential raw material for producing acetate compounds, synthetic fibers, and industrial solvents. It is also used in laboratories and manufacturing processes where controlled acidity is required. Acetic acid is typically supplied in UN-approved packaging such as carboys, HDPE barrels, and IBC tanks to ensure safe storage and transportation for industrial usage.",
             "otherDetails": "25/30 KG UN Approved Carboys | 200/220 KG UN Approved HM-HDPE Barrels | 1100 KG UN Approved IBC Tank | Manufacturing Inorganic Chemicals | Manufacturing Plastics, Pharmaceuticals & Rubbers"
@@ -19,9 +16,6 @@
             "image": "./assest/images/ACID Product/HYDROCHLORIC.png",
             "PRDImage1": "./assest/images/ACID Product/hydrochloric/hdImage1.png",
             "PRDImage2": "./assest/images/ACID Product/hydrochloric/hdImage2.png",
-            "PRDImage3": "./assest/images/ACID Product/hydrochloric/hdImage3.png",
-            "PRDImage4": "./assest/images/ACID Product/hydrochloric/hdImage4.png",
-            "PRDImage5": "./assest/images/ACID Product/hydrochloric/hdImage5.png",
             "description": "Hydrochloric Acid (HCl) is a highly corrosive and strong mineral acid widely used in industrial processes. It is commonly used in the steel industry for pickling and removing rust or scale from metal surfaces. Hydrochloric acid is also widely applied in water treatment plants to control pH levels and remove impurities from water.",
             "description1": "Apart from metal processing and water treatment, hydrochloric acid is used in ore refining, chemical manufacturing, and food processing industries. It also plays an important role in the production of chlorine dioxide and in the activation of petroleum wells. Due to its powerful chemical properties, hydrochloric acid is supplied in UN-approved containers such as carboys, HDPE barrels, and IBC tanks to ensure safety during storage and transportation.",
             "otherDetails": "1160 KG UN Approved IBC Tanks | 35 KG UN Approved Carboys | 240/250/265/270/280 KG UN Approved HMHDPE Barrels | Steel pickling and scale removal | Water treatment | Ore refining | Food processing | Manufacture of Chlorine Dioxide | Activation of Petroleum wells"
@@ -32,9 +26,6 @@
             "image": "./assest/images/ACID Product/PHOSPHORIC.png",
             "PRDImage1": "./assest/images/ACID Product/phosphoric/pspImage1.png",
             "PRDImage2": "./assest/images/ACID Product/phosphoric/pspImage2.png",
-            "PRDImage3": "./assest/images/ACID Product/phosphoric/pspImage3.png",
-            "PRDImage4": "./assest/images/ACID Product/phosphoric/pspImage4.png",
-            "PRDImage5": "./assest/images/ACID Product/phosphoric/pspImage5.png",
             "description": "Phosphoric Acid is an important inorganic acid widely used in the food, agriculture, and chemical industries. It is commonly used as an acidifying agent in processed foods and beverages, helping maintain flavor and stability. In the edible oil industry, phosphoric acid plays a significant role in the refining process by removing impurities and improving oil quality.",
             "description1": "In industrial applications, phosphoric acid is used as a chemical reagent and rust remover. It helps clean metal surfaces and prepares them for coating or painting by eliminating oxidation. Due to its versatility and effectiveness, phosphoric acid is supplied in secure UN-approved packaging to ensure safe storage and transportation for various industrial uses.",
             "otherDetails": "35 KG UN Approved Carboys | Edible Oil Refining | Processed Food as Acidifying Agent | Chemical Process Reagent | Rust Remover"
@@ -45,9 +36,6 @@
             "image": "./assest/images/ACID Product/SULPHURIC.png",
             "PRDImage1": "./assest/images/ACID Product/sulphuric/sulImage1.png",
             "PRDImage2": "./assest/images/ACID Product/sulphuric/sulImage2.png",
-            "PRDImage3": "./assest/images/ACID Product/sulphuric/sulImage3.png",
-            "PRDImage4": "./assest/images/ACID Product/sulphuric/sulImage4.png",
-            "PRDImage5": "./assest/images/ACID Product/sulphuric/sulImage5.png",
             "description": "Sulphuric Acid is one of the most important industrial chemicals and is widely used across numerous manufacturing sectors. It acts as a powerful catalyst in chemical reactions and plays a crucial role in the production of detergents, dyes, pigments, and titanium dioxide. Its strong acidic nature makes it essential for various industrial processing and chemical synthesis applications.",
             "description1": "Sulphuric acid is also widely used in chemical manufacturing, petroleum refining, and fertilizer production. Due to its high reactivity and industrial importance, it is stored and transported in UN-approved carboys and heavy-duty HDPE barrels to ensure safe handling. The chemical's versatility and effectiveness make it a key raw material in many large-scale industrial operations.",
             "otherDetails": "40/50 KG UN Approved Carboys | 300/350 KG UN Approved HM-HDPE Barrels | Catalyst | Manufacturing Detergents | Manufacturing Titanium Dioxide | Manufacturing Dyes & Pigments"
@@ -61,9 +49,6 @@
             "image": "./assest/images/Chemical Product/AMMONIUM.png",
             "PRDImage1": "./assest/images/Chemical Product/ammonium/ammoChemImage1.png",
             "PRDImage2": "./assest/images/Chemical Product/ammonium/ammoChemImage2.png",
-            "PRDImage3": "./assest/images/Chemical Product/ammonium/ammoChemImage3.png",
-            "PRDImage4": "./assest/images/Chemical Product/ammonium/ammoChemImage4.png",
-            "PRDImage5": "./assest/images/Chemical Product/ammonium/ammoChemImage5.png",
             "description": "Ammonium Hydroxide, commonly known as liquid ammonia or ammonia solution, is a versatile alkaline chemical widely used across industrial and agricultural sectors. It is formed by dissolving ammonia gas in water and is valued for its strong cleaning, neutralizing, and pH-adjusting properties. Due to its effectiveness in breaking down organic materials, oils, and residues, it is commonly used in industrial cleaning, chemical processing, and water treatment applications.",
             "description1": "In addition to industrial uses, ammonium hydroxide plays an important role in fertilizer production and the synthesis of various nitrogen-based compounds. It is also used in laboratories, textile processing, and certain manufacturing processes where controlled alkalinity is required. Its high reactivity and efficiency make it an essential chemical for numerous industrial formulations and production systems.",
             "otherDetails": "20/30/50 KG UN Approved Carboys | 210/220 KG UN Approved HMHDPE Barrels | Cleaning agent | Sanitizer Manufacturing Fertilizers, Plastic, Rayon, Rubber | Acid neutralizer"
@@ -74,9 +59,6 @@
             "image": "./assest/images/Chemical Product/CALCIUM.png",
             "PRDImage1": "./assest/images/Chemical Product/calcium/calcChemImage1.png",
             "PRDImage2": "./assest/images/Chemical Product/calcium/calcChemImage2.png",
-            "PRDImage3": "./assest/images/Chemical Product/calcium/calcChemImage3.png",
-            "PRDImage4": "./assest/images/Chemical Product/calcium/calcChemImage4.png",
-            "PRDImage5": "./assest/images/Chemical Product/calcium/calcChemImage5.png",
             "description": "Calcium Hypochlorite is a powerful oxidizing agent widely recognized for its strong disinfecting and bleaching capabilities. It is commonly used for water purification, sanitation, and industrial cleaning applications due to its ability to effectively eliminate bacteria, viruses, algae, and other harmful microorganisms. The compound releases chlorine when dissolved in water, making it highly effective for maintaining hygienic conditions in water systems and sanitation processes.",
             "description1": "Beyond water treatment, calcium hypochlorite is used in swimming pools, wastewater treatment plants, and sanitation operations across food processing and healthcare industries. It also finds applications in bleaching textiles and paper products, as well as in various industrial processes where microbial control is required. Its reliability and strong disinfectant properties make it an essential chemical for maintaining safe and clean environments.",
             "otherDetails": "1kg, 5kg, 10kg, 20kg, 25kg, 40kg, 45kg and 50kg Packing | 25/35 40/45 KG UN Approved Drums with PVC plastic baginside. | Bleaching purpose of wood pulp, silk, cloth and fiber | Disinfectant for water treatment and swimming pools | Disinfectant for chemical poisonous and radioactive substance."
@@ -87,9 +69,6 @@
             "image": "./assest/images/Chemical Product/FORMLIN.png",
             "PRDImage1": "./assest/images/Chemical Product/formlin/formlinChemImage1.png",
             "PRDImage2": "./assest/images/Chemical Product/formlin/formlinChemImage2.png",
-            "PRDImage3": "./assest/images/Chemical Product/formlin/formlinChemImage3.png",
-            "PRDImage4": "./assest/images/Chemical Product/formlin/formlinChemImage4.png",
-            "PRDImage5": "./assest/images/Chemical Product/formlin/formlinChemImage5.png",
             "description": "Formalin is an aqueous solution of formaldehyde widely used as a preservative, disinfectant, and industrial chemical intermediate. It is highly valued for its ability to prevent microbial growth and preserve biological tissues, making it a critical chemical in laboratories, hospitals, and research institutions. Formalin is commonly used for specimen preservation, medical instrument sterilization, and disinfection in controlled environments.",
             "description1": "In addition to healthcare and laboratory applications, formalin plays a key role in the manufacturing of resins, adhesives, and industrial materials. It is used in the production of plywood, particle boards, and laminates through the synthesis of formaldehyde-based resins. Its chemical reactivity and stability make it an essential raw material in several industrial manufacturing processes.",
             "otherDetails": "30/35 KG UN Approved Carboys | 220/250 KG UN Approved HM-HDPE Barrels | Manufacturing of amino and phenolic resins, slow release fertilizer and metal homopolymers. | Formaldehyde is used with soap as disinfectants. Formaldehyde in hydroalcoholic solution is used widely to the sterilization of surgical goods."
@@ -100,9 +79,6 @@
             "image": "./assest/images/Chemical Product/HYDROGEN.png",
             "PRDImage1": "./assest/images/Chemical Product/hydrogen/hydropeChemImage1.png",
             "PRDImage2": "./assest/images/Chemical Product/hydrogen/hydropeChemImage2.png",
-            "PRDImage3": "./assest/images/Chemical Product/hydrogen/hydropeChemImage3.png",
-            "PRDImage4": "./assest/images/Chemical Product/hydrogen/hydropeChemImage4.png",
-            "PRDImage5": "./assest/images/Chemical Product/hydrogen/hydropeChemImage5.png",
             "description": "Hydrogen Peroxide is a highly effective oxidizing agent widely used for cleaning, bleaching, disinfecting, and chemical processing applications. It decomposes into water and oxygen, making it an environmentally friendly chemical compared to many traditional disinfectants. Due to its strong antimicrobial and oxidizing properties, it is widely used in healthcare, sanitation, and household cleaning products.",
             "description1": "Apart from healthcare applications, hydrogen peroxide is extensively used in industries such as electronics manufacturing, food processing, pulp and paper bleaching, and cosmetic formulations. It also plays an important role in water treatment and surface sterilization processes. Its versatility, strong oxidizing capability, and environmentally safe decomposition make hydrogen peroxide a valuable chemical across numerous industries.",
             "otherDetails": "30/50 KG UN Approved Carboys 250 KG UN Approved HM-HDPE Barrels | Paper industry | Textile industry | Dairy (food) industry | Oxidation of Sulphur compounds | Oxidation of organic effluents"
@@ -116,9 +92,6 @@
             "image": "./assest/images/Industrial Salt/Industrial_Salt.png",
             "PRDImage1": "./assest/images/Industrial Salt/indsImage1.png",
             "PRDImage2": "./assest/images/Industrial Salt/indsImage2.png",
-            "PRDImage3": "./assest/images/Industrial Salt/indsImage3.png",
-            "PRDImage4": "./assest/images/Industrial Salt/indsImage4.png",
-            "PRDImage5": "./assest/images/Industrial Salt/indsImage5.png",
             "description": "Industrial Salt is a widely used raw material in various manufacturing and processing industries due to its high purity, excellent chemical stability, and versatile applications. It plays a crucial role in chemical production processes, especially in the manufacturing of chlorine, caustic soda, and other essential chemical compounds. In the food processing industry, refined and iodized salt is used for preservation, flavor enhancement, and maintaining product quality in packaged foods. Industrial salt is also commonly used in the textile industry during dyeing and printing processes to help fix dyes onto fabrics, ensuring consistent color absorption and improved fabric quality.",
             "description1": "Apart from these applications, industrial salt is also an important component in the paint, detergent, and chemical industries, where it acts as a stabilizing and processing agent. In detergent and washing powder manufacturing, salt helps control the viscosity and density of cleaning formulations. Additionally, industrial salt is used in specialized sectors such as explosive manufacturing and water treatment, where it contributes to the production of essential compounds and purification processes. Because of its wide range of industrial uses and reliable chemical properties, industrial salt remains a vital raw material for many large-scale industrial operations.",
             "otherDetails": "Refined Free Flowing Iodised Salt - Used for edible purposes and in food product industries such as confectionery, bakery, beverages, pickles, sauces, namkeen, food supplements, food additives, and dairy products. | Pure Salt - Widely used in textile and hosiery industries, especially for fabric dyeing and processing. | Crystalline Salt - Suitable for pharmaceutical manufacturing and paint & distemper industries. | Medium Industrial Salt - Used in dyes and chemical industries, as well as in seafood and frozen food processing. | Superfine Salt - Used in soaps, detergents, washing powders, chemical industries, and Ayurvedic preparations. | 30 Mesh Salt - Mainly used in detergent and washing powder manufacturing. | Oversize Salt - Used in explosive industries, specialty chemical production, granite polishing, and drilling applications. | Packaging Available in 50 kg HDPE bags | Custom packaging available as per client requirements."
@@ -132,9 +105,6 @@
             "image": "./assest/images/solvents/chiorinated_solvents.png",
             "PRDImage1": "./assest/images/solvents/Chiorinated/chioriSolImage1.png",
             "PRDImage2": "./assest/images/solvents/Chiorinated/chioriSolImage2.png",
-            "PRDImage3": "./assest/images/solvents/Chiorinated/chioriSolImage3.png",
-            "PRDImage4": "./assest/images/solvents/Chiorinated/chioriSolImage4.png",
-            "PRDImage5": "./assest/images/solvents/Chiorinated/chioriSolImage5.png",
             "description": "Chlorinated solvents are powerful industrial chemicals widely used for their excellent degreasing and cleaning properties. These solvents are highly effective in removing oil, grease, wax, and other contaminants from metal surfaces and machinery components. Because of their strong solvency and fast evaporation rate, chlorinated solvents are commonly used in industries such as automotive, aerospace, and heavy machinery manufacturing where precision cleaning is essential.",
             "description1": "In addition to cleaning applications, chlorinated solvents are also used in chemical manufacturing processes, pharmaceutical production, and specialty chemical synthesis. Their ability to dissolve complex organic materials makes them valuable for industrial processes that require high-performance solvents. With reliable performance and consistent purity, chlorinated solvents play an important role in maintaining efficiency and quality across multiple industrial sectors.",
             "otherDetails": "Excellent Degreasing Power - Highly effective at removing oil, grease, wax, and heavy contaminants from metal surfaces. | Fast Evaporation - Evaporates quickly after cleaning, leaving minimal residue on treated surfaces. | High Chemical Stability - Maintains performance under high temperatures and demanding industrial conditions. | Non-Flammable Nature - Offers safer usage in many industrial cleaning environments compared to flammable solvents. | Precision Cleaning Capability - Ideal for cleaning sensitive machinery parts, electronic components, and metal equipment. | Strong Solvency Performance - Effectively dissolves complex organic compounds and industrial residues."
@@ -145,9 +115,6 @@
             "image": "./assest/images/solvents/Hydrocarbon_solvents.png",
             "PRDImage1": "./assest/images/solvents/Hydrocarbon/hydroSolImage1.png",
             "PRDImage2": "./assest/images/solvents/Hydrocarbon/hydroSolImage2.png",
-            "PRDImage3": "./assest/images/solvents/Hydrocarbon/hydroSolImage3.png",
-            "PRDImage4": "./assest/images/solvents/Hydrocarbon/hydroSolImage4.png",
-            "PRDImage5": "./assest/images/solvents/Hydrocarbon/hydroSolImage5.png",
             "description": "Hydrocarbon solvents are versatile chemicals derived from petroleum that are widely used in various industrial applications. These solvents are especially effective in dissolving oil-based materials, resins, greases, and waxes, making them ideal for cleaning, degreasing, and formulation processes. Their balanced solvency and relatively low toxicity make them a preferred choice for industries requiring efficient yet cost-effective solvent solutions.",
             "description1": "Hydrocarbon solvents are commonly used in paint and coating production, adhesives manufacturing, rubber processing, printing inks, and industrial maintenance. They help improve product consistency, enhance material blending, and support cleaning operations in manufacturing facilities. Due to their stability and compatibility with many industrial materials, hydrocarbon solvents remain a key component in modern industrial production.",
             "otherDetails": "Strong Oil Dissolving Ability - Efficiently dissolves oil-based materials, greases, waxes, and resins. | Controlled Evaporation Rate - Provides adequate processing time for coatings, adhesives, and industrial formulations. | Excellent Compatibility - Works well with paints, coatings, inks, rubber, and adhesive formulations. | Cost-Effective Industrial Solution - Offers reliable performance while maintaining economical production costs. | Versatile Cleaning Performance - Suitable for machinery maintenance, metal cleaning, and industrial degreasing. | Stable Chemical Properties - Ensures consistent performance across different industrial applications."
@@ -158,9 +125,6 @@
             "image": "./assest/images/solvents/oxygenated_solvents.png",
             "PRDImage1": "./assest/images/solvents/oxygenated/oxySolImage1.png",
             "PRDImage2": "./assest/images/solvents/oxygenated/oxySolImage2.png",
-            "PRDImage3": "./assest/images/solvents/oxygenated/oxySolImage3.png",
-            "PRDImage4": "./assest/images/solvents/oxygenated/oxySolImage4.png",
-            "PRDImage5": "./assest/images/solvents/oxygenated/oxySolImage5.png",
             "description": "Oxygenated solvents are advanced chemical solvents that contain oxygen in their molecular structure, providing excellent solvency and enhanced performance in many industrial applications. These solvents are widely used for cleaning, degreasing, and extraction processes, particularly in industries where efficient and environmentally considerate solvent solutions are required. Their strong dissolving capability makes them highly effective in removing oils, residues, and organic compounds.",
             "description1": "Oxygenated solvents are commonly used in industries such as automotive manufacturing, pharmaceuticals, agrochemicals, and paints & coatings production. They are valuable in chemical synthesis, formulation processes, and product development due to their ability to dissolve a wide range of substances. With high efficiency and versatile functionality, oxygenated solvents support modern industries that demand both performance and reliability.",
             "otherDetails": "High Solvency Strength - Effectively dissolves organic materials, oils, and chemical residues. | Enhanced Cleaning Efficiency - Provides superior cleaning performance for industrial and laboratory applications. | High Purity Composition - Suitable for pharmaceutical, chemical, and specialty manufacturing processes. | Excellent Extraction Capability - Ideal for extracting active compounds in chemical and pharmaceutical industries. | Improved Formulation Stability - Helps maintain consistency and stability in chemical formulations. | Multi-Industry Compatibility - Widely used in automotive, agrochemical, pharmaceutical, and coatings industries."
@@ -174,9 +138,6 @@
             "image": "./assest/images/pigament/Pigament_Green_7.png",
             "PRDImage1": "./assest/images/pigament/PG7/pg7PigaImage1.png",
             "PRDImage2": "./assest/images/pigament/PG7/pg7PigaImage2.png",
-            "PRDImage3": "./assest/images/pigament/PG7/pg7PigaImage3.png",
-            "PRDImage4": "./assest/images/pigament/PG7/pg7PigaImage4.png",
-            "PRDImage5": "./assest/images/pigament/PG7/pg7PigaImage5.png",
             "description": "Pigment Green-7 is a high-performance phthalocyanine green pigment known for its excellent color strength, bright shade, and outstanding durability. It provides a vibrant bluish-green tone that delivers strong tinting power and superior opacity in various industrial formulations. Due to its exceptional lightfastness and weather resistance, Pigment Green-7 is widely used in demanding outdoor and industrial applications where long-term color stability is essential.",
             "description1": "This pigment is commonly used in automotive OEM paints, architectural coatings, plastics, rubber, and textile printing. Its excellent chemical resistance and thermal stability make it highly suitable for modern coating systems and polymer processing. With reliable performance and consistent color quality, Pigment Green-7 plays an important role in producing durable and visually appealing industrial products.",
             "otherDetails": "High Tinting Strength - Provides strong color intensity even at low pigment concentration | Outstanding Lightfastness - Maintains vibrant color even under prolonged sunlight exposure | Excellent Weather Resistance - Suitable for outdoor coatings and harsh environmental conditions | Superior Chemical Resistance - Performs well in coatings and plastic applications exposed to chemicals | Good Dispersion Properties - Ensures smooth and uniform pigment distribution in formulations | High Thermal Stability - Withstands high temperatures during plastic and coating processing"
@@ -187,9 +148,6 @@
             "image": "./assest/images/pigament/Pigment_Green_36.png",
             "PRDImage1": "./assest/images/pigament/PG36/pg36PigaImage1.png",
             "PRDImage2": "./assest/images/pigament/PG36/pg36PigaImage2.png",
-            "PRDImage3": "./assest/images/pigament/PG36/pg36PigaImage3.png",
-            "PRDImage4": "./assest/images/pigament/PG36/pg36PigaImage4.png",
-            "PRDImage5": "./assest/images/pigament/PG36/pg36PigaImage5.png",
             "description": "Pigment Green-36 is an advanced grade phthalocyanine green pigment designed for applications that require high purity, brilliant shade, and exceptional performance. It offers superior color intensity and excellent resistance to heat, light, and chemicals, making it ideal for high-end coating and specialty industrial applications. Its strong dispersion properties allow it to deliver uniform color and enhanced gloss in a wide range of formulations.",
             "description1": "This pigment is widely used in high-end automotive finishes, metallic coatings, industrial coatings, and advanced display technologies such as LCD display filters. Its outstanding durability and stability ensure long-lasting color performance even under harsh environmental conditions. Pigment Green-36 is a preferred choice for manufacturers seeking premium green pigments with consistent quality and high performance.",
             "otherDetails": "Premium Bright Shade - Produces a pure and brilliant green color with high visual appeal | Exceptional Heat Stability - Maintains color performance during high-temperature processing | Excellent Weather Fastness - Ideal for outdoor coatings and automotive applications | High Durability - Provides long-lasting color retention in demanding environments | Superior Gloss Development - Enhances surface finish and coating appearance | Advanced Dispersion Performance - Delivers consistent color distribution in complex formulations"
@@ -200,9 +158,6 @@
             "image": "./assest/images/pigament/Phthalocyanine_Beta_Blue.png",
             "PRDImage1": "./assest/images/pigament/PBB/pbbPigaImage1.png",
             "PRDImage2": "./assest/images/pigament/PBB/pbbPigaImage2.png",
-            "PRDImage3": "./assest/images/pigament/PBB/pbbPigaImage3.png",
-            "PRDImage4": "./assest/images/pigament/PBB/pbbPigaImage4.png",
-            "PRDImage5": "./assest/images/pigament/PBB/pbbPigaImage5.png",
             "description": "Phthalocyanine Beta Blue is a widely used phthalocyanine pigment known for its deep shade, strong tinting strength, and superior durability. This pigment provides excellent lightfastness and chemical resistance, making it ideal for applications where long-lasting color performance is required. Its stable crystal structure ensures consistent color tone and excellent dispersion in different industrial formulations.",
             "description1": "The pigment is commonly used in offset and packaging inks, industrial coatings, plastics masterbatches, and rubber applications. It delivers reliable color consistency and high performance in both printing and coating systems. Due to its versatility and durability, Phthalocyanine Beta Blue remains a preferred pigment choice for manufacturers seeking vibrant and stable blue shades.",
             "otherDetails": "Deep Blue Shade - Produces a darker and stronger blue tone | Excellent Lightfastness - Resists fading when exposed to sunlight and UV light | Strong Chemical Resistance - Suitable for industrial coatings and ink applications | High Process Stability - Performs reliably in printing inks and plastic processing | Enhanced Color Consistency - Maintains uniform shade across production batches | Superior Durability - Provides long-lasting color performance in industrial applications"
@@ -213,9 +168,6 @@
             "image": "./assest/images/pigament/Phthalocyanine_Alpha_Blue.png",
             "PRDImage1": "./assest/images/pigament/PAB/pabPigaImage1.png",
             "PRDImage2": "./assest/images/pigament/PAB/pabPigaImage2.png",
-            "PRDImage3": "./assest/images/pigament/PAB/pabPigaImage3.png",
-            "PRDImage4": "./assest/images/pigament/PAB/pabPigaImage4.png",
-            "PRDImage5": "./assest/images/pigament/PAB/pabPigaImage5.png",
             "description": "Phthalocyanine Alpha Blue is a premium quality blue pigment known for its high color strength, excellent brightness, and strong tinting properties. It produces a rich and vibrant blue shade that is widely appreciated in industries requiring consistent color performance. The pigment offers good dispersion characteristics and reliable stability, making it suitable for a variety of industrial and commercial applications.",
             "description1": "It is commonly used in liquid inks, water-based paints, textile emulsions, and certain plastic applications. Its excellent chemical resistance and long-term color stability help maintain product quality and visual appeal in different manufacturing processes. Phthalocyanine Alpha Blue is widely recognized as a dependable pigment solution for industries that require durable and high-performance blue colorants.",
             "otherDetails": "High Color Strength - Provides deep blue shade with strong tinting performance | Bright and Vibrant Tone - Produces rich and visually appealing blue color | Good Solvent Resistance - Maintains stability in solvent-based ink and coating systems | Smooth Dispersion - Easily mixes in paints, inks, and emulsion systems | Reliable Chemical Stability - Resistant to various industrial chemicals | Long-Term Color Stability - Maintains consistent color over extended periods"
@@ -229,9 +181,6 @@
             "image": "./assest/images/Dyes/ACID_Dyes.png",
             "PRDImage1": "./assest/images/Dyes/acidDyes/acidDyeImage1.png",
             "PRDImage2": "./assest/images/Dyes/acidDyes/acidDyeImage2.png",
-            "PRDImage3": "./assest/images/Dyes/acidDyes/acidDyeImage3.png",
-            "PRDImage4": "./assest/images/Dyes/acidDyes/acidDyeImage4.png",
-            "PRDImage5": "./assest/images/Dyes/acidDyes/acidDyeImage5.png",
             "description": "Acid dyes are water-soluble dyes mainly used for dyeing silk, wool, nylon, and other protein-based fibers. These dyes are applied in an acidic dye bath, which helps the dye molecules bind effectively to the fiber, producing bright and long-lasting colors. Acid dyes are widely used in the textile industry because they provide excellent color brilliance, uniform dyeing, and good fastness properties.",
             "description1": "In industrial applications, acid dyes are commonly used for coloring textiles, leather, paper, and inks. Examples mentioned in the brochure include Acid Orange II, Red-A, Scarlet 3R, Red-3BN, and Metanil Yellow. These dyes are valued for their strong color intensity, easy application process, and ability to produce a wide range of vibrant shades.",
             "otherDetails": "Acid Orange II - A widely used acid dye for textiles, leather, and paper industries, known for producing bright orange shades with good color strength. | Acid Orange II - A widely used acid dye for textiles, leather, and paper industries, known for producing bright orange shades with good color strength. | Red-A - Commonly used in textile dyeing and printing, providing vibrant red tones and uniform color distribution on fabrics. | Red-3BN - Used in textile and leather coloring applications, offering deep red coloration and good compatibility with acidic dye baths. | Metanil Yellow - A bright yellow acid dye commonly used in textile dyeing, paper coloring, and chemical industries for producing vivid yellow shades."
@@ -242,9 +191,6 @@
             "image": "./assest/images/Dyes/Basic_Dyes.png",
             "PRDImage1": "./assest/images/Dyes/basicDyes/basicDyeImage1.png",
             "PRDImage2": "./assest/images/Dyes/basicDyes/basicDyeImage2.png",
-            "PRDImage3": "./assest/images/Dyes/basicDyes/basicDyeImage3.png",
-            "PRDImage4": "./assest/images/Dyes/basicDyes/basicDyeImage4.png",
-            "PRDImage5": "./assest/images/Dyes/basicDyes/basicDyeImage5.png",
             "description": "Basic dyes, also known as cationic dyes, are highly vibrant dyes commonly used for coloring acrylic fibers, paper, leather, and certain textiles. These dyes are known for producing extremely bright and intense colors, making them suitable for decorative and industrial applications where strong color visibility is required. Basic dyes have high tinctorial strength, meaning only a small amount is needed to achieve strong color results.",
             "description1": "In industrial sectors, basic dyes are widely used in textile dyeing, paper coloring, and ink manufacturing. According to the brochure, common examples include Basic Auramine, Bismarck Brown R, and Bismarck Brown Y. These dyes are preferred where brilliant shades and high color strength are required for commercial production.",
             "otherDetails": "Chrysophenine - A commonly used direct dye for cotton, paper, and textile industries, known for producing bright yellow shades with good color uniformity. | Red-12 - Widely used in textile dyeing and printing applications, providing strong red coloration on cotton and cellulose fibers. | Direct Black - A popular dye used for cotton fabrics, paper coloring, and textile processing, producing deep black shades with good coverage. | Paper Yellow - Mainly used in the paper manufacturing industry to produce vibrant yellow shades for packaging, printing, and decorative papers. | Congo Red - A well-known direct dye used in textile dyeing, paper coloring, and laboratory applications, producing strong red tones on cellulose-based materials."
@@ -255,9 +201,6 @@
             "image": "./assest/images/Dyes/Direct_Dyes.png",
             "PRDImage1": "./assest/images/Dyes/directDyes/directDyeImage1.png",
             "PRDImage2": "./assest/images/Dyes/directDyes/directDyeImage2.png",
-            "PRDImage3": "./assest/images/Dyes/directDyes/directDyeImage3.png",
-            "PRDImage4": "./assest/images/Dyes/directDyes/directDyeImage4.png",
-            "PRDImage5": "./assest/images/Dyes/directDyes/directDyeImage5.png",
             "description": "Direct dyes are a class of dyes that can be applied directly to cellulose fibers such as cotton, rayon, and paper without the need for a mordant or additional chemical fixatives. They are widely used in the textile industry because they provide a simple and economical dyeing process while producing uniform and consistent color results. Direct dyes are especially suitable for large-scale textile dyeing operations.",
             "description1": "In addition to textile applications, direct dyes are also used in paper coloring and leather processing industries. The brochure lists examples such as Chrysophenine, Direct Black, Paper Yellow, and Congo Red. These dyes are valued for their ease of use, good dye penetration, and ability to produce a wide range of colors for industrial products.",
             "otherDetails": "Basic Auramine - A bright yellow basic dye widely used in textile dyeing, paper coloring, and leather industries, known for producing strong fluorescent yellow shades. | Bismark Brown-R - Commonly used in textile, leather, and paper industries, providing rich brown coloration and good dyeing performance on various materials. | Bismark Brown-Y - A basic dye used for textile dyeing, leather processing, and ink manufacturing, producing warm brown tones with good color intensity."

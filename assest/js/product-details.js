@@ -40,30 +40,21 @@ document.addEventListener("DOMContentLoaded", function () {
 
     let detailsList = "";
     if (product.otherDetails) {
-        const detailsArray = product.otherDetails.split("|");
+      const detailsArray = product.otherDetails.split("|");
 
-        detailsArray.forEach(detail => {
+      detailsArray.forEach(detail => {
         detailsList += `<li>${detail.trim()}</li>`;
-        });
+      });
     }
 
     const productHTML = `
       <div class="product-details-wrapper">
         <div class="product-image">
             <div class="product-image-box">
-                <img src="${product.PRDImage1}" class="w-100" alt="${product.name}" />
+              <img src="${product.PRDImage1}" class="w-100" alt="${product.name}" />
             </div>
             <div class="product-image-box">
-                <img src="${product.PRDImage2}" class="w-100" alt="${product.name}" />
-            </div>
-            <div class="product-image-box">
-                <img src="${product.PRDImage3}" class="w-100" alt="${product.name}" />
-            </div>
-            <div class="product-image-box">
-                <img src="${product.PRDImage4}" class="w-100" alt="${product.name}" />
-            </div>
-            <div class="product-image-box">
-                <img src="${product.PRDImage5}" class="w-100" alt="${product.name}" />
+              <img src="${product.PRDImage2}" class="w-100" alt="${product.name}" />
             </div>
         </div>
         <div class="product-info">
