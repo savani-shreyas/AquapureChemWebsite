@@ -159,6 +159,7 @@ nav {
 
 .navlinks {
     color: #000;
+    font-weight: 600;
     padding: 6px 10px;
     text-decoration: none;
     text-transform: capitalize;
@@ -166,6 +167,9 @@ nav {
 }
 
 .navlinks:hover {
+    color: #004092;
+}
+.navlinks.active {
     color: #004092;
 }
 
@@ -574,7 +578,7 @@ nav {
     width: 100%;
     display: flex;
     justify-content: center;
-    background-image: url('/Aquapure-Chem/assest/images/Banner/enquiry-banner.png');
+    background-image: url('/AquapureChemWebsite/assest/images/Banner/enquiry-banner.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -733,6 +737,10 @@ footer {
 
 .mbl-nav-header {
     display: none;
+}
+
+.product-page-heading{
+    margin-bottom: 0;
 }
 
 @media screen and (max-width: 1200px) {
