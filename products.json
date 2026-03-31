@@ -82,6 +82,16 @@
             "description": "Hydrogen Peroxide is a highly effective oxidizing agent widely used for cleaning, bleaching, disinfecting, and chemical processing applications. It decomposes into water and oxygen, making it an environmentally friendly chemical compared to many traditional disinfectants. Due to its strong antimicrobial and oxidizing properties, it is widely used in healthcare, sanitation, and household cleaning products.",
             "description1": "Apart from healthcare applications, hydrogen peroxide is extensively used in industries such as electronics manufacturing, food processing, pulp and paper bleaching, and cosmetic formulations. It also plays an important role in water treatment and surface sterilization processes. Its versatility, strong oxidizing capability, and environmentally safe decomposition make hydrogen peroxide a valuable chemical across numerous industries.",
             "otherDetails": "30/50 KG UN Approved Carboys 250 KG UN Approved HM-HDPE Barrels | Paper industry | Textile industry | Dairy (food) industry | Oxidation of Sulphur compounds | Oxidation of organic effluents"
+        },
+        {
+            "id": "trichloroisocyanuric-acid",
+            "name": "Trichloroisocyanuric Acid",
+            "image": "./assest/images/Chemical Product/HYDROGEN.png",
+            "PRDImage1": "./assest/images/Chemical Product/hydrogen/hydropeChemImage1.png",
+            "PRDImage2": "./assest/images/Chemical Product/hydrogen/hydropeChemImage2.png",
+            "description": "Trichloroisocyanuric Acid (TCCA) is a high-performance chlorine-based disinfectant widely used in water treatment, sanitation, and industrial applications. Known for its high available chlorine content (around 90%), TCCA provides powerful and long-lasting disinfection through its slow and controlled release mechanism. It is available in multiple forms such as tablets, granules, and powder, making it versatile for different usage requirements. The compound acts as a strong oxidizing agent with excellent bactericidal, fungicidal, and algicidal properties, ensuring effective elimination of harmful microorganisms while maintaining stability during storage and handling.",
+            "description1": "TCCA is extensively used across various industries including swimming pool sanitation, drinking water purification, wastewater treatment, and cooling tower maintenance. In industrial sectors, it is applied in textile bleaching, food and beverage sanitation, and equipment disinfection. Additionally, it plays a vital role in agriculture and fisheries for maintaining hygiene and controlling algae growth. Its cost-effectiveness, ease of transport, and superior efficiency make it an ideal alternative to traditional chlorine-based disinfectants for both commercial and industrial applications.",
+            "otherDetails": "50 kg HDPE drums | 25 kg plastic drums | Customized packaging available | Tablet sizes: 1g / 5g / 20g / 200g | Keep away from moisture and direct sunlight | Do not mix with other chemicals | Use protective gloves and eyewear | Store in a cool, dry, well-ventilated place | Avoid inhalation and direct contact | High efficiency with low dosage | Long shelf life | Easy handling compared to chlorine gas | Minimal residue after use | Cost-effective solution for large-scale applications"
         }
     ],
 

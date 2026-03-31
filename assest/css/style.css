@@ -338,10 +338,12 @@ nav {
 }
 
 .contact-icon {
-    display: flex;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 8% 92%;
     align-items: center;
     gap: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .contact-icon:nth-last-child(1) {
@@ -548,12 +550,12 @@ nav {
 .product-image {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
+    gap: 30px;
 }
 
 .product-image-box {
     display: flex;
-    border-left: 1.5px solid #004092;
+    border: 1.5px solid #004092;
 }
 
 .prd-page-detail-heading {
