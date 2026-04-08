@@ -13,6 +13,10 @@ body {
     margin: 0 auto;
 }
 
+main{
+    position: relative;
+}
+
 .w-100 {
     width: 100%;
 }
@@ -518,6 +522,10 @@ nav {
     align-items: center;
 }
 
+.sepecial-product-content p{
+    text-align: justify;
+}
+
 .category-name {
     position: absolute;
     bottom: 0;
@@ -753,6 +761,32 @@ footer {
 
 .mt-25{
     margin-top: 25px;
+}
+
+.desk-image{
+    display: block;
+}
+
+.mobile-image{
+    display: none;
+}
+
+.whats-app-icon{
+    width: 55px;
+    height: 55px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
+    background-color: #e1ffea;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.whats-app{
+    width: 70%;
 }
 
 @media screen and (max-width: 1200px) {
@@ -1041,5 +1075,13 @@ footer {
         border: none;
         display: flex;
         align-items: center;
+    }
+
+    .desk-image{
+        display: none;
+    }
+
+    .mobile-image{
+        display: block;
     }
 }
