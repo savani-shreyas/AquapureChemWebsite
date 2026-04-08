@@ -53,4 +53,4 @@ fetch('./products.json')
                 1200: { slidesPerView: 4 }
             }
         });
-});
+    });

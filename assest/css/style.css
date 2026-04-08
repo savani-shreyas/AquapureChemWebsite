@@ -264,10 +264,11 @@ nav {
 }
 
 .product-name {
+    width: 95%;
     font-size: 14px;
     font-weight: 600;
-    text-transform: uppercase;
-    margin-bottom: 5px;
+    text-transform: capitalize;
+    margin: 0 auto 5px;
 }
 
 .product-slider .section-header {
@@ -540,7 +541,8 @@ nav {
 }
 
 .product-info h1 {
-    font-size: 32px;
+    font-size: 26px;
+    margin-bottom: 6px;
 }
 
 .product-info p {
@@ -620,7 +622,7 @@ nav {
     color: #004092;
 }
 
-.enquiry-form-main .form-group:nth-last-child(1) {
+.enquiry-form-main .form-group:nth-last-child(1), .form-group:nth-last-child(2) {
     grid-column: span 2;
     margin-bottom: 18px;
 }
@@ -658,6 +660,10 @@ nav {
     width: 92%;
 }
 
+.enquiry-form-main .form-group:nth-last-child(2) .form-group input {
+    width: 96%;
+}
+
 .submit-btn {
     padding: 14px 28px;
     background-color: #004092;
@@ -680,7 +686,7 @@ nav {
 footer {
     width: 100%;
     padding: 40px 0 20px;
-    background-color: #d9e9ff;
+    background-color: #f4f8ff;
 }
 
 .footer-main {
@@ -743,6 +749,10 @@ footer {
 
 .product-page-heading{
     margin-bottom: 0;
+}
+
+.mt-25{
+    margin-top: 25px;
 }
 
 @media screen and (max-width: 1200px) {
