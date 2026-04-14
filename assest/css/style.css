@@ -590,7 +590,7 @@ nav {
     width: 100%;
     display: flex;
     justify-content: center;
-    background-image: url('/AquapureChemWebsite/assest/images/Banner/enquiry-banner.png');
+    background-image: url('../images/Banner/enquiry-banner.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
